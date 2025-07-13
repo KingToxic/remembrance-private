@@ -19,7 +19,7 @@ Purpose: Handles saving of new player data during the character creation process
 
 Functionality:
 
-Captures player input from GUI buttons (e.g., race, gender, appearance).
+Captures player input from GUI buttons (e.g., variant, appearance).
 
 Packages this data into a structured format.
 
